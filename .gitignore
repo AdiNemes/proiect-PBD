@@ -1,0 +1,8 @@
+# Fisiere temporare Word/OS
+~$*.docx
+.DS_Store
+
+# Fisiere aplicatie
+__pycache__/
+*.pyc
+.env
